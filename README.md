@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- -->
+
 
 
 <h1 align="center">Hi 👋, I'm Aayush Pratap Singh</h1>
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 
--->
+
 
 - 📝 I am a Coder, a Developer and a Mentor
 
