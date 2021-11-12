@@ -24,14 +24,19 @@ Here are some ideas to get you started:
 
 
 
-- 📝 I am a Coder, a Developer and a Mentor
+- 📝 I am a Coder, a Developer and an Open Source Contributor
 
 
-- 🔭 I’m currently working on **Farm Assisatnce**
+<!-- - 🔭 I’m currently working on **Farm Assisatnce**
 
 
-- 🌱 I’m currently learning **Cloud Services**
+- 🌱 I’m currently learning **Cloud Services** -->
 
+- ✨ **Key Skills**
+  - Problem Solving- Data Structures & Algorithms
+  - Programming language- C, C++, Python
+  - Familiarity with Node.js , JavaScript 
+  - Database: SQL, PL/SQL, MongoDB
 
 
 
